@@ -1,6 +1,6 @@
 # vue-sticky-element
 
-A simple vue sticky component wrapper that will stick to screen when scrolled past it. I made this because I found other libraries not doing what I exactly wanted. www.skandishop.com www.himassa.com
+A simple vue sticky component wrapper that will stick to screen when scrolled past it. I made this because I found other libraries not doing what I exactly wanted. www.skandishop.com www.himassa.com www.twocrowstudios.com
 
 Supports both vue-2 and vue-3
 
